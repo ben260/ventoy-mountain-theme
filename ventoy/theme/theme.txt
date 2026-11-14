@@ -1,0 +1,11 @@
+desktop-image: "ben_nevis.jpg"
+title-text: ""
+
++ boot_menu {
+    left = 15%
+    top = 25%
+    width = 70%
+    height = 50%
+    item_color = "#ffffff"
+    selected_item_color = "#00ff00"
+}
